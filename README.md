@@ -21,7 +21,7 @@ https://www.canva.com/design/DAGBWzA_DxI/zWAuabhT2AnhVWRrbVBJcg/view?utm_content
 ## **Dashboard Link :-**  
 https://www.novypro.com/project/amazon-sales-data-analysis-power-bi-1    
 
-## **Page 1 shows Sales Analysis
+## Page 1 shows Sales Analysis
 ## Page 2 shows Product Analysis
 ## Page 3 shows Customer Analysis
-## Page 5 shows Geographic Analysis**
+## Page 5 shows Geographic Analysis
